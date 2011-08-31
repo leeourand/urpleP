@@ -24,5 +24,5 @@ class Marquee
 
 end
 
-m = Marquee.new("onetwothreefourfivesizeseveneightnineten")
+m = Marquee.new("onetwothreefourfivesixseveneightnineten")
 m.scroll
